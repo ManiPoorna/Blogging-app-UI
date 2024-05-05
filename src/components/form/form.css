@@ -1,0 +1,40 @@
+.signup-form, .login-form{
+  padding: 1.5rem;
+  border: 2px solid lightcoral;
+  border-radius: 1rem;
+  width: 300px;
+  flex-direction: column;
+  gap: 10px;
+  margin: auto;
+  background: linear-gradient(60deg,rgba(255, 192, 203, 0.539),rgba(255, 255, 0, 0.322),lightgreen);
+}
+.login-form{
+  gap: 5px;
+}
+.login-form h2{
+  padding: 5px;
+}
+.signup-form .input,.login-form .input{
+  width: 100%;
+}
+.signup-form .button, .login-form .button{
+  margin: 5px ;
+  width: 100%;
+}
+.landing-div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.landing-div p{
+  cursor: pointer;
+}
+
+/* MUI css */
+.css-10jyip1-MuiLinearProgress-root {
+  margin: 10px;
+  width: 100%;
+  height: 20px;
+}

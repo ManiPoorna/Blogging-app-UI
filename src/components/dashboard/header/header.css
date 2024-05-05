@@ -1,0 +1,13 @@
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+.box{
+  background-color: black;
+}
+.MuiToolbar-root{
+  background: linear-gradient(60deg,rgba(216, 49, 77, 0.2),rgba(255, 255, 0, 0.4),lightgreen);
+}

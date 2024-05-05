@@ -1,0 +1,10 @@
+.follow-card{
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  max-width:100% ;
+}
+.css-1ri6ub7-MuiPaper-root-MuiCard-root{
+  max-width: 96% !important;
+}

@@ -1,0 +1,12 @@
+.css-1ri6ub7-MuiPaper-root-MuiCard-root {
+  min-width: 320px;
+  max-width: 800px !important;
+  border-radius: 0.5rem !important;
+  padding: 5px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
+  transition: 1s;
+}
+.css-1ri6ub7-MuiPaper-root-MuiCard-root:hover{
+  background-color: #f0efef;
+  cursor: pointer;
+}
